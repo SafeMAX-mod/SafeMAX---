@@ -39,7 +39,7 @@ SafeMax — неофициальная модификация популярно
 | Канал | Контакт |
 |-------|---------|
 | Telegram | [@safemax_mod](https://t.me/safemax_mod) |
-| Email | team-safemax@mail.ru |
+| Email |  safemaxmod@gmail.com |
 
 ---
 
